@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **8abdallahh88@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFezSZK5M8/O_t5tOY54iTUXpW2uNZ-hQ/view?utm_content=DAFezSZK5M8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFezSZK5M8/O_t5tOY54iTUXpW2uNZ-hQ/view?utm_content=DAFezSZK5M8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink]
 
 - ⚡ Fun fact **I Think I am funny**
 
