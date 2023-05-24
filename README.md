@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about **web development**
 
 - 📫 How to reach me **8abdallahh88@gmail.com**
 
