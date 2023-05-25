@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **8abdallahh88@gmail.com**
 
-- 📄 Know about my experiences [My CV]((https://rb.gy/ybpmj))
+- 📄 Know about my experiences [[My CV]((https://rb.gy/ybpmj))](https://rb.gy/ybpmj)
 
 - ⚡ Fun fact **I think I am funny**
 
