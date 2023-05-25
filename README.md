@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **8abdallahh88@gmail.com**
 
-- 📄 Know about my experiences [My CV]([[https://www.canva.com/design/DAFezSZK5M8/jQeOsMjA76VV-lCVuuVxYQ/edit?utm_content=DAFezSZK5M8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://rb.gy/ybpmj](https://rb.gy/ybpmj))
+- 📄 Know about my experiences [My CV]((https://rb.gy/ybpmj))
 
 - ⚡ Fun fact **I think I am funny**
 
