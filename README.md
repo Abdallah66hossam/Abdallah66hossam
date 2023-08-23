@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **8abdallahh88@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/15I3HtmtK2ZckOPBi8iXTiGOJNHU5AhNW/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1WUPBOJPwv9G064Df7V2iBnm7XZe7Ss6L/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
