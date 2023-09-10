@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **8abdallahh88@gmail.com**
+- 📫 How to reach me **abdallahhossam.dev@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1WUPBOJPwv9G064Df7V2iBnm7XZe7Ss6L/view?usp=sharing)
 
