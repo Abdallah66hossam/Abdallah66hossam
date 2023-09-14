@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdallahhossam.dev@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1WUPBOJPwv9G064Df7V2iBnm7XZe7Ss6L/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1wtugjzQiH42T0Dcnv2-mUTmzvavRDOZ5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
