@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah Hossam</h1>
 <h3 align="center">A passionate web developer from Egypt</h3>
 
-- 🔭 I’m currently working at [Rework](https://www.rework.club/) & [ٍSuperlabs](https://superlabs.co/)
+- 🔭 I’m currently working at [Rework](https://www.rework.club/) & [Superlabs](https://superlabs.co/)
 
 - 🌱 I’m currently learning **Typescript**
 
