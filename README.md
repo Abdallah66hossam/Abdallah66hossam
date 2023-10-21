@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Rework](https://www.rework.club/) & [Superlabs](https://superlabs.co/)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **web development**
 
