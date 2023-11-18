@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at Typescript
 - 📫 How to reach me **abdallahhossam.dev@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1YnLLR6CNdaIUNARa0_iBxf9S3wZ7GlAl/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1xEpy2hx-X0SjNdPjzAj8H3gflYLAue5-/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
