@@ -1,4 +1,4 @@
-## <img width="45" alt="about" src="https://icons-for-free.com/iff/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png"> More about me
+## <img width="45" alt="about" src="https://icons-for-free.com/iff/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" style="margin-top: 10px;"> More about me
 
 ```javascript
 const abdallah = {
@@ -12,7 +12,7 @@ const abdallah = {
     linkedin: "https://www.linkedin.com/in/abdallahhossam/",
   },
   funFacts: [
-    "Creating Bugs from 2023",
+    "Creating bugs since 2023",
     "Believes CSS can be both a blessing and a curse, depending on the day.",
     "Will refactor the same component 10 times because it just has to be *perfect*.",
   ],
