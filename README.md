@@ -1,5 +1,6 @@
-## <div style="text-align: center;">
+## <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <img width="45" alt="about" src="https://icons-for-free.com/iff/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" style="margin-top: 10px;">
+  <h2 style="margin: 0;">More about me</h2>
 </div>
 
 ### More about me
