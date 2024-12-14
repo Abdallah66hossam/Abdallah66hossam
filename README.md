@@ -1,5 +1,8 @@
-## <img width="45" alt="about" src="https://icons-for-free.com/iff/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" style="margin-top: 10px;"> More about me
+## <div style="text-align: center;">
+  <img width="45" alt="about" src="https://icons-for-free.com/iff/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" style="margin-top: 10px;">
+</div>
 
+### More about me
 ```javascript
 const abdallah = {
   about: {
